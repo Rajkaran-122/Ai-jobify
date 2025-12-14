@@ -1,0 +1,13 @@
+# Workflow Orchestration
+apache-airflow==2.8.0
+apache-airflow-providers-celery==3.5.0
+
+# Event Streaming
+kafka-python==2.0.2
+confluent-kafka==2.3.0
+
+# Scheduling
+apscheduler==3.10.4
+
+# Automation Utilities
+croniter==2.0.1

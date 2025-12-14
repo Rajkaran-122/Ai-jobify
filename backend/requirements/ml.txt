@@ -1,0 +1,23 @@
+# ML Frameworks
+tensorflow==2.15.0
+torch==2.1.2
+transformers==4.36.2
+
+# NLP
+spacy==3.7.2
+nltk==3.8.1
+
+# ML Utilities
+scikit-learn==1.4.0
+numpy==1.26.3
+pandas==2.1.4
+xgboost==2.0.3
+
+# Vector Search
+faiss-cpu==1.7.4
+
+# Model Management
+mlflow==2.9.2
+
+# Feature Engineering
+category-encoders==2.6.3
